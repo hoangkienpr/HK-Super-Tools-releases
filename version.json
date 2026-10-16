@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "build": 18,
-  "url": "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.2.8/HK-Super-Tools-v1.2.8.apk",
-  "notes": "Tự check cập nhật mỗi lần vào app theo khung 2/6/10/14/18/22h. La bàn độc lập: sensor fusion, Bắc thật, giờ mặt trời, chế độ đêm, vạch độ, viền neon. Màn Hướng dẫn sử dụng 60 tính năng + mẹo ẩn.",
-  "size": 148178133
+    "version":  "1.2.9",
+    "build":  19,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.2.9/HK-Super-Tools-v1.2.9.apk",
+    "notes":  "Ban cap nhat v1.2.9",
+    "size":  148178133
 }
