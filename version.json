@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "build": 14,
-  "url": "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.2.3/HK-Super-Tools-v1.2.3.apk",
-  "notes": "Copy-dán xuyên Server.",
-  "size": 147517440
+  "version": "1.2.5",
+  "build": 15,
+  "url": "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.2.5/HK-Super-Tools-v1.2.5.apk",
+  "notes": "Tự check bản mới theo khung giờ + chấm đỏ; Dashboard chuông cập nhật; Image Viewer lật trang + toolbar nổi; Test phần cứng 7 bài mới + grid.",
+  "size": 147947998
 }
