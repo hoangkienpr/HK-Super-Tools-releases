@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.1",
-    "build":  32,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.1/HK-Super-Tools-v1.4.1.apk",
-    "notes":  "adb tool update",
-    "size":  148460065
+    "version":  "1.4.2",
+    "build":  33,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.2/HK-Super-Tools-v1.4.2.apk",
+    "notes":  "ADB Wifi Update logic OK.",
+    "size":  150197782
 }
