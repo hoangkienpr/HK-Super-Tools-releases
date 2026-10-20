@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.2",
-    "build":  33,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.2/HK-Super-Tools-v1.4.2.apk",
-    "notes":  "ADB Wifi Update logic OK.",
-    "size":  150197782
+    "version":  "1.4.3",
+    "build":  44,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.3/HK-Super-Tools-v1.4.3.apk",
+    "notes":  "update DLNA Receiver , MediaCast",
+    "size":  208840728
 }
