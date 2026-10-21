@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.6",
-    "build":  47,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.6/HK-Super-Tools-v1.4.6.apk",
-    "notes":  "Chức năng mới SystemUI Tuner",
-    "size":  209070228
+    "version":  "1.4.7",
+    "build":  48,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.7/HK-Super-Tools-v1.4.7.apk",
+    "notes":  "Youtube Downloader: tai nhac Suno (tu giai ma AES-CTR + xuat MP3), share link tu app Suno, hien thi dinh dang dung.",
+    "size":  209086616
 }
