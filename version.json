@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.7",
-    "build":  48,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.7/HK-Super-Tools-v1.4.7.apk",
-    "notes":  "Youtube Downloader: tai nhac Suno (tu giai ma AES-CTR + xuat MP3), share link tu app Suno, hien thi dinh dang dung.",
-    "size":  209086616
+    "version":  "1.4.8",
+    "build":  49,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.8/HK-Super-Tools-v1.4.8.apk",
+    "notes":  "Suno: tai ca nhac cua tac gia, video MP4, goi y bai tuong tu (theo tags).",
+    "size":  209119440
 }
