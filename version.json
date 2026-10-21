@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.8",
-    "build":  49,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.8/HK-Super-Tools-v1.4.8.apk",
-    "notes":  "Suno: tai ca nhac cua tac gia, video MP4, goi y bai tuong tu (theo tags).",
+    "version":  "1.4.9",
+    "build":  50,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.4.9/HK-Super-Tools-v1.4.9.apk",
+    "notes":  "Youtube Downloader: file nhac (MP3/M4A) mo bang trinh phat co san trong app, them nut \u0027Mo bang app khac\u0027.",
     "size":  209119440
 }
