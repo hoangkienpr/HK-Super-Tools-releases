@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.4",
-    "build":  55,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.5.4/HK-Super-Tools-v1.5.4.apk",
-    "notes":  "Update VoiceAssistant",
-    "size":  209249512
+    "version":  "1.5.5",
+    "build":  57,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.5.5/HK-Super-Tools-v1.5.5.apk",
+    "notes":  "OCR Dịch nhập tay",
+    "size":  209315140
 }
