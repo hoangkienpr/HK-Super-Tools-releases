@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.3",
-    "build":  54,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.5.3/HK-Super-Tools-v1.5.3.apk",
-    "notes":  " New Dashboard UI",
-    "size":  209364876
+    "version":  "1.5.4",
+    "build":  55,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.5.4/HK-Super-Tools-v1.5.4.apk",
+    "notes":  "Update VoiceAssistant",
+    "size":  209249512
 }
