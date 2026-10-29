@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.1",
-    "build":  63,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.6.1/HK-Super-Tools-v1.6.1.apk",
-    "notes":  "test",
-    "size":  112427231
+    "version":  "1.6.2",
+    "build":  64,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.6.2/HK-Super-Tools-v1.6.2.apk",
+    "notes":  "doc n pdf support",
+    "size":  112641421
 }
