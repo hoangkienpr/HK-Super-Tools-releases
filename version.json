@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.4",
-    "build":  66,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.6.4/HK-Super-Tools-v1.6.4.apk",
-    "notes":  "SNIFFER Download OK ",
-    "size":  112838617
+    "version":  "1.6.5",
+    "build":  67,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.6.5/HK-Super-Tools-v1.6.5.apk",
+    "notes":  "Auto-ducking + normalize loudness + new satellite icon",
+    "size":  125199397
 }
