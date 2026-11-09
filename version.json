@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.7",
-    "build":  69,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.6.7/HK-Super-Tools-v1.6.7.apk",
-    "notes":  "Auto-ducking settings + audio session + quick paste widget + offline cache + CI/CD",
-    "size":  113405557
+    "version":  "1.6.8",
+    "build":  66,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.6.8/HK-Super-Tools-v1.6.8.apk",
+    "notes":  "nang cap toan dien",
+    "size":  112838617
 }
