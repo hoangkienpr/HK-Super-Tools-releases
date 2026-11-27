@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.2",
-    "build":  70,
-    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.7.2/HK-Super-Tools-v1.7.2.apk",
-    "notes":  "nâng cấp ftp client phát ok từ netshare ",
-    "size":  118622639
+    "version":  "1.7.3",
+    "build":  71,
+    "url":  "https://github.com/hoangkienpr/HK-Super-Tools-releases/releases/download/v1.7.3/HK-Super-Tools-v1.7.3.apk",
+    "notes":  "update app chứa cả file exe của PC Netshare đã test ok ALL",
+    "size":  201477791
 }
